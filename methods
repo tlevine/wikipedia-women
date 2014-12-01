@@ -1,0 +1,47 @@
+Some methodology ideas
+
+## Translation experiment
+Select several articles that are written in one language and not in
+another. Translate the first few sentences to the other language, and
+create a new article for that, citing the article in the first language.
+
+Randomly decide whether to post the new article as one of many
+identities. The simplest experiment would involve a male identity and
+a female identity with otherwise similar traits.
+
+Compare whatever outcome I like between the two authors.
+
+* How quickly or whether the article is
+  * Improved
+  * Deleted
+  * Marked with a particular template
+* How people communicate with the author
+
+## 
+
+## Regression discontinuity
+Identify precise times at which a relavant thing about the article
+changed, and compare something in between
+
+
+## Ways of guessing/defining gender
+I suspect that it will be hard to compare genders because it will be
+hard to determine genders. I'd rather avoid determining genders, but
+here are some ideas of how I might determine genders if I really need to.
+
+These can be thought of as ways of guessing the gender of a user.
+
+* Whether a username looks male or female
+* Grammar and preferred prepositions
+  * I read an awesome thing about how bloggers of different genders used
+      words like "with" and "as" differently, and I tried using the female
+      words on the internet, and it worked! This was like eight years ago
+      (around 2006), and I can't find the original thing.
+  * I'd want to validate it specifically for Wikipedia, and that might be hard.
+
+It's better to think of the following approaches as definitions of gender
+rather than as ways of guessing the gender of a user.
+
+* Gender of the subject of an article
+* Genders of the subjects of articles that a user has edited
+* Genders of the subjects of articles that a user lists in a user page
