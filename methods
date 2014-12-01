@@ -1,5 +1,7 @@
 Some methodology ideas
 
+# Counterfactuals
+
 ## Translation experiment
 Select several articles that are written in one language and not in
 another. Translate the first few sentences to the other language, and
@@ -17,14 +19,32 @@ Compare whatever outcome I like between the two authors.
   * Marked with a particular template
 * How people communicate with the author
 
-## 
+## Compare different articles
+For some hypothesis, I may be able to categorize articles into categories
+that are worth comparing. For example, I could rate how misogynist, fighty,
+or welcoming the talk page of the articles are.
+
+This is less compelling to me than the other proposals in the present
+writing unless I can easily demonstrate that the categories are otherwise
+equivalent.
 
 ## Regression discontinuity
-Identify precise times at which a relavant thing about the article
-changed, and compare something in between
+Identify precise times at which a relevant thing about the article
+changed, and compare something in between. Some ideas
 
+* A fight breaks out on the talk page.
+* A particular editor begins editing.
+    (for example, an editor involved in a fight)
+* Article gets popular.
+* Article gets tagged in a way that makes new people see it.
+* Particular editors stop editing.
 
-## Ways of guessing/defining gender
+## Changes within an editor
+Compare edits that a particular user made at different times. For example,
+it may be that the users edit less after being involved in a sexual
+discussion and that the reduction in edits is greater for women (reason 7).
+
+# Ways of guessing/defining gender
 I suspect that it will be hard to compare genders because it will be
 hard to determine genders. I'd rather avoid determining genders, but
 here are some ideas of how I might determine genders if I really need to.
