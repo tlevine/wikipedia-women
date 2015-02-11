@@ -1,0 +1,48 @@
+reversion reversion....
+
+I propose to investigate this reason further through empirical research,
+using the data available in Wikipedia's edit history.
+
+According to Sue, women don't edit because their edits are likely to get
+reverted. Implicit in this assertion is that men's edits are less likely
+to be reverted or that women are more affected by reversions to their edits.
+I thus have two hypotheses.
+
+1. An edit by a woman is more likely to be reverted than an edit by a man.
+2. A man is more likely to keep contributing after having his edit reverted
+    than a women is after her edit is reverted.
+
+
+
+For this study we would know the genders of the editors. This is quite
+difficult to determine because editors usually do not indicate their genders
+and because women sometimes indicate that they are male in order to avoid
+harassment (cite some things?).
+
+Instead of using gender of editors, we will use, as a proxy, genders of
+the subjects of articles. We will compare the reversions and edits to
+biographies based on the genders of the subjects of the biographies.
+
+
+To test our first hypothesis, we will compare the rate of reversions between
+biographies about men and biographies about women. With each biography, we
+will count how many edits were made in total and how many edits were reversions.
+This will give us a percentage of edits that are reversions. We will compare
+this percentage between biographies about men and biographies about women.
+
+
+
+
+To test our second hypothesis, we will look a bit deeper into the data.
+We will look at each user who edited a biography and had the edit reverted
+and check whether the user continued editing the biography after the edit
+was reverted. We are interested in whether the user continued editing the
+article because it indicates whether they have the confidence to continue
+editing even after her or his edit was reverted.
+
+Since our interest is the role of gender, we will compare the reaction to
+reversions by gender. Using the gender of the biography as a proxy for the
+gender of the editor, we will compare the reactions to reversions between
+male and female biographies; we will check whether the gender of the subject
+of the biography is correlated with whether people continue editing after
+a reversion.
