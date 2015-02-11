@@ -1,0 +1,24 @@
+This one gives me so many ideas!
+http://suegardner.org/2011/02/19/nine-reasons-why-women-dont-edit-wikipedia-in-their-own-words/
+
+For example, in order to test this reason,
+
+> 4) Some women don’t edit Wikipedia because they are conflict-averse and
+> don’t like Wikipedia’s sometimes-fighty culture.
+
+we can guess whether each user is male or female and look for fightiness
+in talk pages and revision histories. Then we can see whether the gender
+balance of editors changes when the article gets fighty.
+
+And in order to test this one,
+
+> 5) Some women don’t edit Wikipedia because the information they bring to
+> Wikipedia is too likely to be reverted or deleted.
+
+we guess whether each user is male or female and see whether females'
+edits are more likely to be reverted or deleted.
+
+Guessing whether a user is male or female might be hard, so we might
+instead look at edits to articles about people and see whether gender
+of the article subject is associated with whether edits to the article
+get reverted/deleted.
